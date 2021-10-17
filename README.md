@@ -29,7 +29,8 @@ Bu veri seti orijinal olarak Carnegie Mellon Üniversitesi'nde bulunan StatLib k
 + NewLeague: 1987 sezonunun başında oyuncunun ligini gösteren A ve N seviyelerine sahip bir faktör  
 ## Kaynak:
 #### 
-Data Science and Machine Learning Boot Camp, Veri Bilimi Okulu, 2021
+Data Science and Machine Learning Boot Camp, Veri Bilimi Okulu, 2021  
+Veri Bilimci Yetiştirme Programı
 
 
 
