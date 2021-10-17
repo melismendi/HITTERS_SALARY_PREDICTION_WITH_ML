@@ -30,7 +30,7 @@ Bu veri seti orijinal olarak Carnegie Mellon Üniversitesi'nde bulunan StatLib k
 ## Kaynak:
 #### 
 Data Science and Machine Learning Boot Camp, Veri Bilimi Okulu, 2021  
-Veri Bilimci Yetiştirme Programı
+#Veri Bilimci Yetiştirme Programı
 
 
 
