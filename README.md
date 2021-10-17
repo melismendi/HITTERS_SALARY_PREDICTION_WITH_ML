@@ -1,6 +1,7 @@
 # HITTERS_SALARY_PREDICTION_WITH_ML
 ## İş Problemi: 
 ### Maaş bilgileri ve 1986-87 sezonuna ait kariyer istatistikleri paylaşılan beyzbol oyuncularının maaş tahminleri için bir makine öğrenmesi projesi gerçekleştirilebilir mi?
+## Veri Seti Hikayesi: 
 #### Bu veri seti orijinal olarak Carnegie Mellon Üniversitesi'nde bulunan StatLib kütüphanesinden alınmıştır.  
 #### Veri seti 1988 ASA Grafik Bölümü Poster Oturumu'nda kullanılan verilerin bir parçasıdır.  
 #### Maaş verileri orijinal olarak Sports Illustrated, 20 Nisan 1987'den alınmıştır.  
