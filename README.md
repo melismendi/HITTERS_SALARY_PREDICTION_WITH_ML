@@ -29,7 +29,7 @@ Salary: Oyuncunun 1986-1987 sezonunda aldığı maaş(bin uzerinden)
 NewLeague: 1987 sezonunun başında oyuncunun ligini gösteren A ve N seviyelerine sahip bir faktör  
 ## Kaynak:
 #### 
-Data Science and Machine Learning Boot Camp, VBo, 2021
+Data Science and Machine Learning Boot Camp, Veri Bilimi Okulu, 2021
 
 
 
